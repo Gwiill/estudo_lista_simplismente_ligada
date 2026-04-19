@@ -27,6 +27,6 @@ public class No {
 
     @Override
     public String toString() {
-        return "No{objeto=" + objetto + "}";
+        return "No{objeto=" + objeto + "}";
     }
 }
